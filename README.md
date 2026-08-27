@@ -1,4 +1,7 @@
-# Hi 👋🏻, I'm Elizabeth <img src="https://api.iconify.design/lucide:rose.svg?color=%23e11d48" width="30" height="30" align="center" />
+<h1>
+  Hi 👋🏻, I'm Elizabeth 
+  <img src="https://api.iconify.design/lucide:rose.svg?color=%23e11d48" style="vertical-align: middle; background: transparent; display: inline-block; margin-bottom: 4px;" width="30" height="30" />
+</h1>
 
 ### Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 
