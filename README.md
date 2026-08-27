@@ -1,6 +1,6 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth 
-  <img src="https://img.shields.io/badge/-_-%23f3e8ff?style=flat-square&logo=lucide-rose&logoColor=black" align="center" height="30" />
+  <img src="https://img.shields.io/badge/-_-%23f3e8ff?style=flat-square&logo=lucide-rose&logoColor=%23e11d48" align="center" height="30" />
 </h1>
 
 ### Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
