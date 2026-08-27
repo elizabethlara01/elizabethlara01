@@ -1,4 +1,4 @@
-# Hi 👋, I'm Elizabeth
+# Hi 👋🏻, I'm Elizabeth <img src="https://api.iconify.design/lucide:rose.svg?color=%23e11d48" width="30" height="30" align="center" />
 
 ### Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 
