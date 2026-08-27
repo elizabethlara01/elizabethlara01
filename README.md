@@ -1,4 +1,7 @@
-# Hi 👋🏻, I'm Elizabeth <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" width="30" height="30" align="center" style="background-color: transparent !important;" />
+<h1>
+  Hi 👋🏻, I'm Elizabeth 
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" style="vertical-align: middle; filter: invert(24%) sepia(85%) saturate(3474%) hue-rotate(334deg) brightness(96%) contrast(92%); margin-bottom: 4px;" width="28" height="28" />
+</h1>
 
 ### Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 
