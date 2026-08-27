@@ -1,6 +1,6 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth 
-  <img src="https://img.shields.io/badge/-_-%23f3e8ff?style=flat-square&logo=lucide-rose&logoColor=%23e11d48" align="center" height="30" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" style="background-color: #ffffff; padding: 4px; border-radius: 8px; vertical-align: middle;" width="24" height="24" />
 </h1>
 
 ### Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
