@@ -23,11 +23,11 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </p>
 
 <h3>
-  <sub><img src="https://github.com/user-attachments/assets/d65ad727-e25e-488b-bdb7-7e30ea2f8fbf" style="background-color: none !important;" width="35" heig<ht=" 35" /></sub> Languages and Tools:
+  <sub><img src="https://github.com/user-attachments/assets/d65ad727-e25e-488b-bdb7-7e30ea2f8fbf" style="background-color: none !important;" width="35" height=" 35" /></sub> Languages and Tools:
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino&perline=8" />
 </p>
 
 <br>
