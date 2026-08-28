@@ -27,7 +27,7 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino&perline=9" />
 </p>
 
 <br>
