@@ -16,7 +16,8 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
   <strong>Open to collaborating on interesting projects ✨</strong>
 </p>
 <p align="left">
-  <a href="www.linkedin.com/in/elizabeth-lara-garcía-899a6a251">
+  <a href="https://www.linkedin.com/in/elizabeth-lara-garc%C3%ADa-899a6a251/">
+  
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -29,6 +30,8 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
 </p>
 
+<p align="left">
+  <img src="https://hits.dwyl.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
+</p>
 
-![](https://komarev.com)
 <img src="./wave.svg" width="100%"/>
