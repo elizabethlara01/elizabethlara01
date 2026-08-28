@@ -4,7 +4,7 @@
 </h1>
 
 <h3>
-  <sub><img src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" style="background-color: none !important;" width="5%" /></sub>
+  <sub><img src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" style="background-color: none !important;" width="2%" /></sub>
   Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 </h3>
 
