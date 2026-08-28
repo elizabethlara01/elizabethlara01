@@ -33,4 +33,8 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
   <img src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
 </p>
 
+<p align="left">
+  <img src="https://count.getloli.com/get/@elizabethlara01?theme=asoul" alt="Views" />
+</p>
+
 <img src="./wave.svg" width="100%"/>
