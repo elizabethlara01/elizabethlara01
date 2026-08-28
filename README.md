@@ -1,3 +1,4 @@
+<img src="./wave.svg" width="100%" />
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
 </h1>
@@ -12,6 +13,6 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
-  <img src="./wave.svg" width="100%" />
+  
 </p>
 
