@@ -2,13 +2,12 @@
   Hi 👋🏻, I'm Elizabeth🐞
 </h1>
 <h3>
-  <sub><img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4&bg=f3e8ff&mask=circle&pad=6" width="35" height="35" /></sub> Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
+  <sub><img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4&bg=f3e8ff&mask=circle&pad=6" width="40" height="40" /></sub> Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 </h3>
 <h3>
   <sub><img src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" style="background-color: none !important;" width="35" height=" 35" /></sub>
   Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 </h3>
-<img src="https://img.shields.io/badge/-%23f3e8ff?style=for-the-badge&logo=bookstack&logoColor=black" align="absmiddle" />
 Computer Engineer passionate about cybersecurity, backend/web development, and smart databases. I’m currently completing my Master's with a focus on security, looking for my next challenge in the tech world. I'd describe myself as a proactive learner who enjoys problem-solving, picking up new skills quickly, and constantly looking for ways to improve!
 
 <h3>
