@@ -30,9 +30,7 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </p>
 <br>
 <p align="center">
-  <img src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=%23C4B5FD" alt="Views" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=elizabethlara01&color=C4B5FD&style=flat-square&label=Views" width="80" />
+  <img align="right" src="./wave.svg" width="100%"/>
 </p>
 <img src="./wave.svg" width="100%"/>
