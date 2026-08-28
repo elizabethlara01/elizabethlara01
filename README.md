@@ -34,7 +34,7 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </p>
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@elizabethlara01?theme=gelbooru" alt="Views" />
+  <img src="https://view-counter.onrender.com/count/elizabethlara01/badge.svg" alt="Vistas" />
 </p>
 
 <img src="./wave.svg" width="100%"/>
