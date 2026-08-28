@@ -1,6 +1,6 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
-  <img align="right" src="./me.png" width="35%"/>
+  <img align="right" src="./me.png" width="30%"/>
 </h1>
 
 <h3>
