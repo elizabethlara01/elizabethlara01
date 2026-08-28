@@ -1,6 +1,6 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" style="background-color: none !important; padding: 4px; border-radius: 8px; vertical-align: middle; width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" style="background-color: none !important; padding: 4px; border-radius: 8px; vertical-align: middle; width="30" height="30" />
 </h1>
 
 ### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" />
