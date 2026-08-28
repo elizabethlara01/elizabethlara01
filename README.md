@@ -1,7 +1,7 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
   <img align="right" src="./me.png" width="300"/>
-  <img src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
+  <img align="right" src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
 </h1>
  
 <h3>
