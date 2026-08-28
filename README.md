@@ -2,6 +2,9 @@
   Hi 👋🏻, I'm Elizabeth🐞
 </h1>
 <h3>
+  <sub><img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4&bg=f3e8ff&mask=circle&pad=6" width="35" height="35" /></sub> Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
+</h3>
+<h3>
   <sub><img src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" style="background-color: none !important;" width="35" height=" 35" /></sub>
   Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 </h3>
