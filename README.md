@@ -28,8 +28,8 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
 </p>
-
 <img src="./wave.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=wave&color=7E22CE&height=180&section=header&text=Hi,%20I'm%20Elizabeth&fontSize=42&fontColor=ffffff&fontAlign=60" width="100%" />
