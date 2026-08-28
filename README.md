@@ -16,7 +16,6 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
   <sub><img src="https://github.com/user-attachments/assets/d65ad727-e25e-488b-bdb7-7e30ea2f8fbf" style="background-color: none !important;" width="35" heig<ht=" 35" /></sub> Languages and Tools:
 </h3>
 
-![](https://komarev.com)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
 </p>
@@ -29,4 +28,6 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
+![](https://komarev.com)
 <img src="./wave.svg" width="100%"/>
