@@ -1,7 +1,8 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
+  <img align="right" src="./me.png" width="300"/>
 </h1>
- <img align="right" src="./me.png" width="300"/>
+ 
 <h3>
   <sub><img src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" style="background-color: none !important;" width="35" height=" 35" /></sub>
   Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
