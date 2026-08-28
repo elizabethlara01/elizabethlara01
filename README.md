@@ -30,7 +30,7 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </p>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elizabethlara01&color=C4B5FD&style=for-the-badg&label=Views" width="80" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=elizabethlara01&color=C4B5FD&style=for-the-badge&label=Views" width="80" height="28" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=elizabethlara01&color=C4B5FD&style=for-the-badge&label=Views" height="28" alt="Vistas de perfil" />
