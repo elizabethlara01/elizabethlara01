@@ -19,3 +19,4 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
 </p>
 <img src="./wave.svg" width="100%"/>
+![elizabethlara01](https://komarev.com)
