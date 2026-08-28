@@ -17,7 +17,6 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/elizabeth-lara-garc%C3%ADa-899a6a251/">
-  
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
