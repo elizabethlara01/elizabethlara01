@@ -1,7 +1,6 @@
 <h1>
   Hi 👋🏻, I'm Elizabeth🐞
   <img align="right" src="./me.png" width="300"/>
-  <img align="right" src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
 </h1>
  
 <h3>
@@ -29,8 +28,7 @@ Computer Engineer passionate about cybersecurity, backend/web development, and s
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,fastapi,flutter,mysql,mongodb,postgres,linux,bash,docker,grafana,prometheus,git,github,arduino" />
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://hits.dwyl.com/elizabethlara01/elizabethlara01.svg?style=flat-square&label=Profile+Views&color=C4B5FD" alt="Views" />
 </p>
 
