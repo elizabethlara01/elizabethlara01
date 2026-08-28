@@ -3,7 +3,8 @@
   <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rose.svg" style="background-color: #ffffff; padding: 4px; border-radius: 8px; vertical-align: middle;" width="24" height="24" />
 </h1>
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f33c3afb-a99f-4c34-8ba8-80bee5a17ea3" /> Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/221616fc-3885-4c65-9ba5-11070f5323c4" />
+ Computer Engineering Graduate | M.Sc. Student specialized in Cybersecurity
 
 Computer Engineer passionate about cybersecurity, backend/web development, and smart databases. I’m currently completing my Master's with a focus on security, looking for my next challenge in the tech world. I'd describe myself as a proactive learner who enjoys problem-solving, picking up new skills quickly, and constantly looking for ways to improve!
 
